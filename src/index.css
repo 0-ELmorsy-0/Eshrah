@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-primary-500: #8b5cf6;
+  --color-success-500: #10b981;
+  --color-warning-500: #f59e0b;
+  --color-info-500: #3b82f6;
+
+  --color-bg-main: #0B0A1A;
+  --color-bg-card: #15132A;
+  --color-bg-sidebar: #0E0C22;
+  --color-bg-hover: #1E1B3A;
+}
+
+body {
+  background-color: var(--color-bg-main);
+  color: #ffffff;
+}

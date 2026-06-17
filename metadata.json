@@ -1,0 +1,6 @@
+{
+  "name": "إشرحــ طب",
+  "description": "نظام إدارة التعليم الطبي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
